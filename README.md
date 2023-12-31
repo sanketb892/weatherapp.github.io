@@ -1,7 +1,8 @@
 # weatherapp.github.io
 
 
-Key Features:
+Key Features:![screencapture-sanketb892-github-io-weatherapp-github-io-2023-12-31-17_45_48](https://github.com/sanketb892/weatherapp.github.io/assets/53649051/44bf7fb0-ea38-4efa-b2f0-0104a0f4aed6)
+
 
 1. Live Weather Updates: With the integration of a robust API key, Weatherapp ensures that you receive live, accurate, and up-to-the-minute weather information. Stay informed about temperature, humidity, wind speed, and more with just a glance.
 2. Responsive Design: Weatherapp adapts effortlessly to various screen sizes, making it accessible on your desktop, tablet, or mobile device. The responsive design ensures a consistent and enjoyable user experience, regardless of your preferred platform.
