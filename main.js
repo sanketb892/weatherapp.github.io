@@ -20,16 +20,16 @@ async function checkWeather(city) {
         weatherIcon.src = "images/clouds.png"
     }
     else if(data.weather[0].main == "Clear"){
-        weatherIcon.src = "image/clear.png"
+        weatherIcon.src = "images/clear.png"
     }
     else if(data.weather[0].mian == "Rain"){
-        weatherIcon.src = "iamge/rain.png"
+        weatherIcon.src = "iamges/rain.png"
     }
     else if(data.weather[0].main == "Drizzle"){
-        weatherIcon.src = "image/drizzle.png"
+        weatherIcon.src = "images/drizzle.png"
     }
     else if(data.weather[0].main == "Mist"){
-        weatherIcon.src = "image/mist.png"
+        weatherIcon.src = "images/mist.png"
     }
 
 }
